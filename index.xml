@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiome&#39;s Blog</title>
-    <link>http://localhost:62659/</link>
+    <link>https://tiomehsh.github.io/</link>
     <description>Recent content on Tiome&#39;s Blog</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 19:25:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:62659/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Sep 2024 00:04:54 +0800</lastBuildDate>
+    <atom:link href="https://tiomehsh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://tiomehsh.github.io/posts/test2/</link>
+      <pubDate>Mon, 09 Sep 2024 00:04:54 +0800</pubDate>
+      <guid>https://tiomehsh.github.io/posts/test2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test1</title>
+      <link>https://tiomehsh.github.io/posts/test1/</link>
+      <pubDate>Sun, 08 Sep 2024 23:39:27 +0800</pubDate>
+      <guid>https://tiomehsh.github.io/posts/test1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:62659/posts/test/</link>
+      <link>https://tiomehsh.github.io/posts/test/</link>
       <pubDate>Sun, 08 Sep 2024 19:25:24 +0800</pubDate>
-      <guid>http://localhost:62659/posts/test/</guid>
+      <guid>https://tiomehsh.github.io/posts/test/</guid>
       <description>&lt;h2 id=&#34;测试这是我的第一篇博客&#34;&gt;测试，这是我的第一篇博客。&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://tiomehsh.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tiomehsh.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://tiomehsh.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tiomehsh.github.io/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
