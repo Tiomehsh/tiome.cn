@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📚文章 on Tiome&#39;s Blog</title>
-    <link>https://tiomehsh.github.io/posts/</link>
+    <link>https://tiome.cn/posts/</link>
     <description>Recent content in 📚文章 on Tiome&#39;s Blog</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 09 Sep 2024 03:15:17 +0800</lastBuildDate>
-    <atom:link href="https://tiomehsh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tiome.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试❤️</title>
-      <link>https://tiomehsh.github.io/posts/%E6%B5%8B%E8%AF%95%EF%B8%8F/</link>
+      <link>https://tiome.cn/posts/%E6%B5%8B%E8%AF%95%EF%B8%8F/</link>
       <pubDate>Mon, 09 Sep 2024 03:15:17 +0800</pubDate>
-      <guid>https://tiomehsh.github.io/posts/%E6%B5%8B%E8%AF%95%EF%B8%8F/</guid>
+      <guid>https://tiome.cn/posts/%E6%B5%8B%E8%AF%95%EF%B8%8F/</guid>
       <description>&lt;p&gt;测试测试测试&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://tiomehsh.github.io/posts/test/</link>
+      <link>https://tiome.cn/posts/test/</link>
       <pubDate>Sun, 08 Sep 2024 19:25:24 +0800</pubDate>
-      <guid>https://tiomehsh.github.io/posts/test/</guid>
+      <guid>https://tiome.cn/posts/test/</guid>
       <description>&lt;h2 id=&#34;测试这是我的第一篇博客&#34;&gt;测试，这是我的第一篇博客。&lt;/h2&gt;</description>
     </item>
   </channel>
