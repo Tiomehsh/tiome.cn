@@ -6,15 +6,8 @@
     <description>Recent content in 📚 文章 on Tiome&#39;s Blog</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 16 Sep 2024 08:53:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:10:52 +0800</lastBuildDate>
     <atom:link href="https://tiome.cn/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>在免费服务器上部署alist</title>
-      <link>https://tiome.cn/posts/%E5%9C%A8%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E9%83%A8%E7%BD%B2alist/</link>
-      <pubDate>Mon, 16 Sep 2024 08:53:20 +0800</pubDate>
-      <guid>https://tiome.cn/posts/%E5%9C%A8%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E9%83%A8%E7%BD%B2alist/</guid>
-      <description>本文介绍了如何在serv00上部署alist，并通过cloudflare tunnel实现反代</description>
-    </item>
     <item>
       <title>搭建个人图床</title>
       <link>https://tiome.cn/posts/%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A/</link>
