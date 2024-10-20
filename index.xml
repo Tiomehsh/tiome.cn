@@ -4,10 +4,17 @@
     <title>Tiome&#39;s Blog</title>
     <link>https://tiome.cn/</link>
     <description>Recent content on Tiome&#39;s Blog</description>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 11 Sep 2024 15:10:52 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 22:43:45 +0800</lastBuildDate>
     <atom:link href="https://tiome.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用快捷指令打开身份码</title>
+      <link>https://tiome.cn/posts/%E7%94%A8%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4%E6%89%93%E5%BC%80%E8%BA%AB%E4%BB%BD%E7%A0%81/</link>
+      <pubDate>Sun, 20 Oct 2024 22:43:45 +0800</pubDate>
+      <guid>https://tiome.cn/posts/%E7%94%A8%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4%E6%89%93%E5%BC%80%E8%BA%AB%E4%BB%BD%E7%A0%81/</guid>
+      <description>记录一下如何用快捷指令快速打开淘宝身份码</description>
+    </item>
     <item>
       <title>搭建个人图床</title>
       <link>https://tiome.cn/posts/%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A/</link>
